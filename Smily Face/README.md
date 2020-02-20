@@ -1,1 +1,1 @@
-An example showing the capabilities of VizHub.
+An example showing a smily face
